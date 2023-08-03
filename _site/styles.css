@@ -1,0 +1,33 @@
+/* css styles */
+/* Customize the height and font size of the navbar */
+.navbar {
+    height: 100px;
+  }
+  
+  .navbar .navbar-nav .nav-link {
+    font-size: 48px;
+  }
+
+  /* Customize the font size of the title */
+.navbar .navbar-brand {
+    font-size: 28px !important;
+  }
+
+  /* Center the navigation items horizontally */
+.navbar .navbar-nav {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+/* Styles for image on the left */
+.image-left {
+    float: left;        /* Float the image to the left */
+    margin: 0 10px 10px 0; /* Add some margin to separate from the main content */
+    max-width: 200px;   /* Set a maximum width for the image */
+  }
+
+  /* Make the logo in the navbar bigger */
+.navbar-brand img {
+    margin-left: 40px;
+    max-height: 100px; /* Set the maximum height of the logo to 60 pixels (adjust as needed) */
+  }
