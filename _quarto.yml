@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: CV.qmd
+        text: CV
       - about.qmd
 
 format:
