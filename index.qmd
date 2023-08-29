@@ -5,7 +5,45 @@ about:
   template: jolla
   image-width: 14em
   image-shape: round
+page-footer: 
+  Center: 
+  - icon: google
+    text: google scholar
+    href: https://scholar.google.com/citations?user=OwduvQQAAAAJ&hl=en
+  - icon: github
+    text: Github
+    href: https://github.com/OscarGVelasco
+  - icon: linkedin
+    text: Linkedin
+    href: https://www.linkedin.com/in/%C3%B3scar-gonz%C3%A1lez-velasco-04323264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0i1RywokQ6iA5xDAGszu1A%3D%3D
+  - icon: twitter
+    text: twitter
+    href: https://twitter.com/Oscar_Anpre
 ---
 
 Postdoctoral researcher in bioinformatics and member of the AI Health Innovation Cluster postdoctoral program. Prior to this, I obtained my Ph.D. at the Cancer Research Center CIC-IBMCC in Salamanca, Spain. My research interests include single-cell analysis and methods, genomics in neurodegenerative diseases and aging, developing novel statistical and bioinformatic methods, and applying different Artificial Intelligence models to molecular and clinical data.
 I strongly believe that interdisciplinary research is essential to overcoming new scientific challenges.
+
+<div class="quarto-about-jolla">
+ <div id="headingnorth">
+</div> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://scholar.google.com/citations?user=OwduvQQAAAAJ&amp;hl=en" class="about-link" rel="" target="">
+    <i class="bi bi-google"></i>
+     <span class="about-link-text">google scholar</span>
+  </a>
+  <a href="https://github.com/OscarGVelasco" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%B3scar-gonz%C3%A1lez-velasco-04323264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0i1RywokQ6iA5xDAGszu1A%3D%3D" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">Linkedin</span>
+  </a>
+  <a href="https://twitter.com/Oscar_Anpre" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">twitter</span>
+  </a>
+</div>
+</div>

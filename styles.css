@@ -1,4 +1,15 @@
 /* css styles */
+
+/* This CSS includes a few ways of styling PDF files */
+p:not(.cssonly) a[href$=".pdf"]:before {
+  /* PDF file */
+width:32px;
+height:32px;
+background:url('http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png');
+display:inline-block;
+content:' ';
+}
+
 /* Customize the height and font size of the navbar */
 .navbar {
     height: 100px;
